@@ -1,5 +1,10 @@
 {
     "name": "Yang 5vs5 NS",
+    "description":"Cooperate with your teammates in this water planet! Fight for the bridges and do not forget the metal in the sea!",
+    "version":"1.1",
+    "creator":"TheRealF",
+    "players":[10, 10],
+
     "planets": [
         {
             "name": "Hyperforce",

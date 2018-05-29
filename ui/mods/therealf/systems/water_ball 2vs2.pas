@@ -1,5 +1,10 @@
 {
     "name": "Water Ball 2vs2",
+    "description":"4 players spawn's Hemispheric planet filled with water. Good for 2vs2 or 4 players FFA",
+    "version":"1.0",
+    "creator":"TheRealF",
+    "players":[4, 4],
+
     "planets": [
         {
             "name": "Water Ball",

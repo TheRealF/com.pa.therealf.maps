@@ -1,5 +1,7 @@
-{
+﻿{
     "name": "Stykades with a twist! [WAF] System",
+    "version":"1.0",
+    "creator":"TheRealF",
     "planets": [
         {
             "name": "Vader's Fist",
@@ -80,7 +82,7 @@
             }
         },
         {
-            "name": "Stykadès",
+            "name": "StykadÃ¨s",
             "mass": 10000,
             "position_x": 2299.984130859375,
             "position_y": -43500,

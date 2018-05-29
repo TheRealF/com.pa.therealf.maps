@@ -4,12 +4,18 @@
     "display_name": "[WAF]TheRealF's Map Pack",
     "description": "Enjoy my custom systems made for team armies and FFAs.  Lot of crazy systems with funny and cool design + barren moon maps + a collection of existing maps modified by me. FIRST RELEASE, PLEASE REPORT BUGS",
     "author": "TheRealF",
-    "version": "1.0",
+    "version": "1.01",
     "build": "108271",
     "date": "2018-05-28",
     "signature": "not yet implemented",
     "forum": "https://github.com/gamechemistry/patitans",
-    "icon": "https://github.com/gamechemistry/patitans/blob/master/JPEG_20180527_154736.jpg",
+    "icon": "https://forums.uberent.com/data/avatars/l/1998/1998202.jpg?1527586828",
+    "category": [
+        "maps"
+    ],
+    "load_planet": [
+        "coui://ui/mods/therealf/maps.js"
+    ],
     "searchable": [
         "TheRealF",
         "WAF",
@@ -22,26 +28,6 @@
     "enabled": true,
     "dependencies": [
         "com.pa.conundrum.cShareSystems"
-    ],
-    "url": "https://github.com/gamechemistry/patitans/com.pa.therealf.maps.zip",
-    "unitList": false,
-    "fileSystem": false,
-    "sort": "TheRealF's map pack",
-    "authors": [
-        "TRF",
-    ],
-    "timestamp": 1523059200000,
-    "companions": [],
-    "scenes": {
-        "load_planet": [
-            "coui://ui/mods/therealf/maps.js"
-        ]
-    },
-    "framework": false,
-    "available": true,
-    "titansOnly": false,
-    "classicOnly": false,
-    "classic": false,
-    "titans": false,
-    "conflicts": {}
+    ]
 }
+    

@@ -1,5 +1,8 @@
 {
     "name": "Flat Earth Society XvX S",
+    "description":"Sandbox Flat Hemispheric map inspired by WPMarshall's pack, you can play with shared teams",
+    "version":"1.0",
+    "creator":"TheRealF",
     "planets": [
         {
             "name": "StreetGeek",

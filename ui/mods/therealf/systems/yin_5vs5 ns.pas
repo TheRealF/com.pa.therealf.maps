@@ -1,5 +1,9 @@
 {
     "name": "Yin 5vs5 NS",
+    "description":"Maybe I've should have called this map Mustafar! Be careful with all that lava that is surrounding you! Cooperate with your teammates cause building space it is not unlimited!",
+    "version":"1.1",
+    "creator":"TheRealF",
+    "players":[10, 10],
     "planets": [
         {
             "name": "Hyperforce",

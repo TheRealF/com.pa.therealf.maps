@@ -1,5 +1,8 @@
 {
     "name": "Wadiya is a Comet!",
+    "description":"Wadiya is a Comet! Waiya but filled with water! Big Naval battles ",
+    "version":"1.0",
+    "creator":"TheRealF",
     "planets": [
         {
             "name": "Wadiya",

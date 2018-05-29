@@ -1,6 +1,6 @@
 {
     "name": "XvX or FFA Orbital War",
-    "description":"4 big planets with a lot of metal and two Moon. Good for 4vs4 clan wars",
+    "description":"4 big planets with a lot of metal and two Moons. Good for 4vs4 clan wars",
     "version":"1.0",
     "creator":"TheRealF",
     "players":[8, 8],

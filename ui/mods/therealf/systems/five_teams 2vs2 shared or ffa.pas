@@ -1,5 +1,10 @@
 {
     "name": "Five teams 2vs2 shared or FFA",
+    "description":"Hemispheric map inspired by WPMarshall's pack, you can play with 5 teams shared or 5 players FFA",
+    "version":"1.0",
+    "creator":"TheRealF",
+    "players":[10, 10],
+
     "planets": [
         {
             "name": "Burning star",

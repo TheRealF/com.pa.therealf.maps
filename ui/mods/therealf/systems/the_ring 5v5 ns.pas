@@ -1,5 +1,10 @@
 {
     "name": "The Ring 5v5 NS",
+    "description":"Simple moon with metal's ring between spawns. Coordination is the key to take control over the rings",
+    "version":"1.0",
+    "creator":"TheRealF",
+    "players":[10, 10],
+
     "planets": [
         {
             "name": "Ring",

@@ -1,5 +1,8 @@
 {
     "name": "Star System",
+    "description":"System inspired by Star wars with delayed spawns, good for XvX and FFA's. Have fun",
+    "version":"1.0",
+    "creator":"TheRealF",
     "planets": [
         {
             "name": "This was a City",
