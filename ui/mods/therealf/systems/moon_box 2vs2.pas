@@ -1,7 +1,7 @@
 {
-    "name": "Moon Box 2vs2"
-    "description":"Little barren Moon for 2vs2 or 4 players FFA",
-    "version":"1.0",
+    "name": "Moon Box 2vs2 NS"
+    "description":"Little barren Moon for 2vs2 NS or 4 players FFA",
+    "version":"1.1",
     "creator":"TheRealF",
     "players":[4, 4],
 

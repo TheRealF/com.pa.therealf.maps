@@ -1,9 +1,9 @@
 {
-    "name": "The Ring 5v5 NS",
-    "description":"Simple moon with metal's ring between spawns. Coordination is the key to take control over the rings",
-    "version":"1.0",
+    "name": "The Ring 5v5 NS or FFA",
+    "description":"Simple moon with metal's ring between spawns. Coordination is the key to take control over the rings. 5vs5, FFA or 2vs2vs2 up to 10 players either shared or unshared ",
+    "version":"1.1",
     "creator":"TheRealF",
-    "players":[10, 10],
+    "players":[4, 10],
 
     "planets": [
         {
@@ -946,43 +946,43 @@
                 ],
                 "rules": [
                     {
-                        "min": 10,
+                        "min": 2,
                         "max": 10
                     },
                     {
-                        "min": 10,
+                        "min": 2,
                         "max": 10
                     },
                     {
-                        "min": 10,
+                        "min": 2,
                         "max": 10
                     },
                     {
-                        "min": 10,
+                        "min": 2,
                         "max": 10
                     },
                     {
-                        "min": 10,
+                        "min": 2,
                         "max": 10
                     },
                     {
-                        "min": 10,
+                        "min": 2,
                         "max": 10
                     },
                     {
-                        "min": 10,
+                        "min": 2,
                         "max": 10
                     },
                     {
-                        "min": 10,
+                        "min": 2,
                         "max": 10
                     },
                     {
-                        "min": 10,
+                        "min": 2,
                         "max": 10
                     },
                     {
-                        "min": 10,
+                        "min": 2,
                         "max": 10
                     }
                 ]
