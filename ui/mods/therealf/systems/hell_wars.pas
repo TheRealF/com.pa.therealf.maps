@@ -1,5 +1,9 @@
 {
     "name": "Hell Wars",
+    "description":"6vs6 map",
+    "version":"1.0",
+    "creator":"MonkeySoldier",
+    "players":[12, 12],
     "planets": [
         {
             "name": "Burn Damage",
