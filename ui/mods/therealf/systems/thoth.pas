@@ -1,5 +1,10 @@
 {
     "name": "Thoth",
+    "description":"2vs2 map",
+    "version":"1.0",
+    "creator":"MonkeySoldier",
+    "players":[4, 4],
+    
     "planets": [
         {
             "name": "Blood Sand",
