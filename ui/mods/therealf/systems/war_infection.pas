@@ -1,5 +1,9 @@
 {
     "name": "War Infection",
+    "description":"5v5 map for custom server. Slow sim speed in regular servers",
+    "version":"1.0",
+    "creator":"MonkeySoldier",
+    "players":[10, 10],
     "planets": [
         {
             "name": "Entrenched",
