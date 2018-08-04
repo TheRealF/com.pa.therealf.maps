@@ -1,5 +1,9 @@
 {
     "name": "Hierophant",
+    "description":"3vs3 map",
+    "version":"1.0",
+    "creator":"MonkeySoldier",
+    "players":[6, 6],
     "planets": [
         {
             "name": "Origin Lost",
