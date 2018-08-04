@@ -17,5 +17,15 @@ cShareSystems.load_pas("TheRealF XvsX or FFA", [
     "coui://ui/mods/therealf/systems/flat_earth society xvx s.pas",
     "coui://ui/mods/therealf/systems/civil_war xvx or ffa.pas",
     "coui://ui/mods/therealf/systems/apx_system.pas",
-    "coui://ui/mods/therealf/systems/star_system.pas"
+    "coui://ui/mods/therealf/systems/burning_cube 6vs6 or ffa or 6x2vs2 shared.pas",
+    "coui://ui/mods/therealf/systems/star_system.pas",
+    "coui://ui/mods/therealf/systems/five_teams 2vs2 shared or ffa.pas"
+]);
+cShareSystems.load_pas("MonkeySoldier TeamArmies", [
+    "coui://ui/mods/therealf/systems/hell_wars.pas",
+    "coui://ui/mods/therealf/systems/hierophant.pas",
+    "coui://ui/mods/therealf/systems/scipio.pas",
+    "coui://ui/mods/therealf/systems/thoth.pas",
+    "coui://ui/mods/therealf/systems/vulgar_masses.pas",
+    "coui://ui/mods/therealf/systems/war_infection.pas"
 ]);
