@@ -1,5 +1,10 @@
 {
     "name": "Vulgar Masses",
+    "description":"5vs5 map",
+    "version":"1.0",
+    "creator":"MonkeySoldier",
+    "players":[10, 10],
+    
     "planets": [
         {
             "name": "Enlightenment",
