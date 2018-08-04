@@ -1,5 +1,9 @@
 {
     "name": "Scipio",
+    "description":"4vs4 map",
+    "version":"1.0",
+    "creator":"MonkeySoldier",
+    "players":[8, 8],
     "planets": [
         {
             "name": "Tank Lands",
