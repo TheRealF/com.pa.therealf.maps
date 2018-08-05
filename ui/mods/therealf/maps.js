@@ -1,7 +1,6 @@
 cShareSystems.load_pas("TheRealF 2vs2, 3vs3", [
     "coui://ui/mods/therealf/systems/bot's_life 3v3 ns.pas",
-    "coui://ui/mods/therealf/systems/moon_box 2vs2.pas",
-    "coui://ui/mods/therealf/systems/water_ball 2vs2.pas"
+    "coui://ui/mods/therealf/systems/moon_box 2vs2.pas"
     ]);
 cShareSystems.load_pas("TheRealF 4vs4, 5vs5", [
     "coui://ui/mods/therealf/systems/yang_5vs5 ns.pas",
@@ -18,8 +17,7 @@ cShareSystems.load_pas("TheRealF XvsX or FFA", [
     "coui://ui/mods/therealf/systems/civil_war xvx or ffa.pas",
     "coui://ui/mods/therealf/systems/apx_system.pas",
     "coui://ui/mods/therealf/systems/burning_cube 6vs6 or ffa or 6x2vs2 shared.pas",
-    "coui://ui/mods/therealf/systems/star_system.pas",
-    "coui://ui/mods/therealf/systems/five_teams 2vs2 shared or ffa.pas"
+    "coui://ui/mods/therealf/systems/star_system.pas"
 ]);
 cShareSystems.load_pas("MonkeySoldier TeamArmies", [
     "coui://ui/mods/therealf/systems/hell_wars.pas",
