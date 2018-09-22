@@ -31,5 +31,5 @@ cShareSystems.load_pas("MonkeySoldier TeamArmies", [
     "coui://ui/mods/therealf/systems/fusile.pas",
     "coui://ui/mods/therealf/systems/lion_killer.pas",
     "coui://ui/mods/therealf/systems/pow.pas",
-    "coui://ui/mods/therealf/systems/prison_colony.pas",
+    "coui://ui/mods/therealf/systems/prison_colony.pas"
 ]);
