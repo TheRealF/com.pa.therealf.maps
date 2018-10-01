@@ -1,7 +1,7 @@
 cShareSystems.load_pas("TheRealF 2vs2, 3vs3", [
     "coui://ui/mods/therealf/systems/bot's_life 3v3 ns.pas",
     "coui://ui/mods/therealf/systems/moon_box 2vs2.pas",
-    "coui://ui/mods/therealf/systems/heat_3vs3.pas"
+    "coui://ui/mods/therealf/systems/heat.pas"
     ]);
 cShareSystems.load_pas("TheRealF 4vs4, 5vs5", [
     "coui://ui/mods/therealf/systems/yang_5vs5 ns.pas",

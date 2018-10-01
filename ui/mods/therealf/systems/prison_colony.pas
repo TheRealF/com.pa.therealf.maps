@@ -4,7 +4,7 @@
 "description":"4v4, one player from each team spawns in fort surrounded by the enemy",
      "version":"1.0",
      "creator":"MonkeySoldier",
-     "players":[4, 4],
+     "players":[8, 8],
     "planets": [
         {
             "name": "Management Directives",
