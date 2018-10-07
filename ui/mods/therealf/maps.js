@@ -18,7 +18,6 @@ cShareSystems.load_pas("TheRealF XvsX, FFA, 1vs1", [
     "coui://ui/mods/therealf/systems/flat_earth society xvx s.pas",
     "coui://ui/mods/therealf/systems/civil_war xvx or ffa.pas",
     "coui://ui/mods/therealf/systems/apx_system.pas",
-    "coui://ui/mods/therealf/systems/burning_cube.pas",
     "coui://ui/mods/therealf/systems/heat_xvx.pas",
     "coui://ui/mods/therealf/systems/star_system.pas"
 ]);
