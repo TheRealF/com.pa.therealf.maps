@@ -1,6 +1,6 @@
 {
-    "name": "Moon galaxy fight"
-    "description":"Huge galaxay fight",
+    "name": "Moon galaxy fight",
+    "description":"Huge galaxy fight",
     "version":"1.0",
     "creator":"Viroo",
     "players":[2, 10],

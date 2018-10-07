@@ -1,5 +1,5 @@
 {
-    "name": "Heat 3vs3"
+   "name": "Heat 3vs3",
     "description":"3v3 Lane Map",
     "version":"1.0",
     "creator":"Epicsmel",

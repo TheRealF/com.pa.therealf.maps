@@ -1,5 +1,5 @@
 {
-    "name": "Moon Box 2vs2 NS"
+    "name": "Moon Box 2vs2 NS",
     "description":"Little barren Moon for 2vs2 NS or 4 players FFA",
     "version":"1.1",
     "creator":"TheRealF",

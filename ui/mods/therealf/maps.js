@@ -37,5 +37,9 @@ cShareSystems.load_pas("MonkeySoldier TeamArmies", [
     "coui://ui/mods/therealf/systems/prison_colony.pas"
 ]);
 cShareSystems.load_pas("Viroo's Map Pack", [
-    "coui://ui/mods/therealf/systems/moon_galaxy_fight.pas"
+    "coui://ui/mods/therealf/systems/moon_galaxy_fight.pas",
+    "coui://ui/mods/therealf/systems/the_skywalker.pas",
+    "coui://ui/mods/therealf/systems/new_far_away_with_gas.pas",
+    "coui://ui/mods/therealf/systems/2v2_on_dusty_archer.pas",
+    "coui://ui/mods/therealf/systems/viroo.pas"
 ]);

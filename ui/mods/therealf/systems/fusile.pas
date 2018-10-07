@@ -5,7 +5,7 @@
     "version":"1.0",
     "creator":"MonkeySoldier",
     "players":[5, 5],
-6v6  Teams    "planets": [
+    "planets": [
         {
             "name": "InfoWars",
             "mass": 10000,
