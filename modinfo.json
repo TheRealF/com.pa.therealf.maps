@@ -1,10 +1,10 @@
 {
     "context": "client",
     "identifier": "com.pa.therealf.maps",
-    "display_name": "[WAF]+[ICARUS] Map Pack",
-    "description": "Enjoy WAF and ICARUS members custom systems made for team armies and FFAs.  Lot of new systems with funny and cool design + barren moon maps + a collection of modified existing maps.",
+    "display_name": "[WAF] Map Pack",
+    "description": "Enjoy WAF members custom systems made for team armies and FFAs.  Lot of new systems with funny and cool design + barren moon maps + a collection of modified existing maps.",
     "author": "TheRealF",
-    "version": "1.5.6",
+    "version": "1.6.0",
     "build": "108271",
     "date": "2018-09-21",
     "signature": "not yet implemented",
