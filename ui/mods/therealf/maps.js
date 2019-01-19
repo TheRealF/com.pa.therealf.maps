@@ -21,24 +21,7 @@ cShareSystems.load_pas("TheRealF XvsX, FFA, 1vs1", [
     "coui://ui/mods/therealf/systems/heat_xvx.pas",
     "coui://ui/mods/therealf/systems/star_system.pas"
 ]);
-cShareSystems.load_pas("MonkeySoldier TeamArmies", [
-    "coui://ui/mods/therealf/systems/hell_wars.pas",
-    "coui://ui/mods/therealf/systems/hierophant.pas",
-    "coui://ui/mods/therealf/systems/scipio.pas",
-    "coui://ui/mods/therealf/systems/thoth.pas",
-    "coui://ui/mods/therealf/systems/vulgar_masses.pas",
-    "coui://ui/mods/therealf/systems/colder_logic.pas",
-    "coui://ui/mods/therealf/systems/dirge_field.pas",
-    "coui://ui/mods/therealf/systems/war_infection.pas",
-    "coui://ui/mods/therealf/systems/fusile.pas",
-    "coui://ui/mods/therealf/systems/lion_killer.pas",
-    "coui://ui/mods/therealf/systems/pow.pas",
-    "coui://ui/mods/therealf/systems/prison_colony.pas",
-    "coui://ui/mods/therealf/systems/fake_history.pas",
-    "coui://ui/mods/therealf/systems/killbox.pas"
-
-]);
-cShareSystems.load_pas("Viroo's Map Pack", [
+cShareSystems.load_pas("Viroo's Maps", [
     "coui://ui/mods/therealf/systems/moon_galaxy_fight.pas",
     "coui://ui/mods/therealf/systems/the_skywalker.pas",
     "coui://ui/mods/therealf/systems/new_far_away_with_gas.pas",
