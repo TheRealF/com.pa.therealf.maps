@@ -28,3 +28,6 @@ cShareSystems.load_pas("Viroo's Maps", [
     "coui://ui/mods/therealf/systems/2v2_on_dusty_archer.pas",
     "coui://ui/mods/therealf/systems/viroo.pas"
 ]);
+cShareSystems.load_pas("Recycle Maps (Requires Junkyard Biome Mod)", [
+    "coui://ui/mods/therealf/systems/recycle.pas"
+]);
