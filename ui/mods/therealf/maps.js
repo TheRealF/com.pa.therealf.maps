@@ -5,7 +5,6 @@ cShareSystems.load_pas("TheRealF 2vs2, 3vs3", [
     ]);
 cShareSystems.load_pas("TheRealF 4vs4, 5vs5", [
     "coui://ui/mods/therealf/systems/yang_5vs5 ns.pas",
-    "coui://ui/mods/therealf/systems/yin_5vs5 ns.pas",
     "coui://ui/mods/therealf/systems/stamford_bridge is falling down 4v4 ns.pas",
     "coui://ui/mods/therealf/systems/drained_nomegatron 4v4.pas",
     "coui://ui/mods/therealf/systems/scorch_4v4.pas",
