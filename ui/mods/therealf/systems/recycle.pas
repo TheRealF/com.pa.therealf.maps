@@ -1,7 +1,6 @@
 {
     "name": "Recycle 1vs1 or Shared Teams",   
-    "description":"Map with no metal but filled with remains of a previous battle. Recycle to annihilate your enemy! (Requires Wondible's Junkyard Biome Mod)",
-    "version":"1.0",
+    "description":"Map with no metal but filled with remains of a previous battle. Recycle to annihilate your enemy!",
     "creator":"TheRealF",
     "planets": [
         {

@@ -37,7 +37,9 @@
         "com.pa.anonemous2.alienworlds.released.client",
         "com.pa.anonemous2.alienworlds.released.server",
         "com.pa.fabberking.gashybrid.server",
-        "com.wondible.pa.junkyard_biome.server"
+        "com.wondible.pa.junkyard_biome.server",
+        "com.pa.anonemous2.bluemoon.server",
+        "com.pa.anonemous2.bluemoon.client"
 
     ]
 }
