@@ -29,7 +29,16 @@
     "priority": 100,
     "enabled": true,
     "dependencies": [
-        "com.pa.conundrum.cShareSystems"
+        "com.pa.conundrum.cShareSystems",
+        "uk.pa.tetctree",
+        "uk.pa.tetctree.server",
+        "com.pa.fabberking.gashybrid.client",
+        "com.wondible.pa.junkyard_biome.client",
+        "com.pa.anonemous2.alienworlds.released.client",
+        "com.pa.anonemous2.alienworlds.released.server",
+        "com.pa.fabberking.gashybrid.server",
+        "com.wondible.pa.junkyard_biome.server"
+
     ]
 }
     
