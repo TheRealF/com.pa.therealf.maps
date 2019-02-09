@@ -30,8 +30,8 @@ cShareSystems.load_pas("WAF's Alternative Biomes", [
     "coui://ui/mods/therealf/systems/recycle.pas"
 ]);
 cShareSystems.load_pas("[WAF] Zyroo Maps", [
-    "coui://ui/mods/therealf/systems/nixonia_1vs1.pas",
-    "coui://ui/mods/therealf/systems/moonlight_4vs4_share_or_ffa_hard.pas",
-    "coui://ui/mods/therealf/systems/nixonia_2vs2_or_4ffa.pas",
-    "coui://ui/mods/therealf/systems/titans_home_4vs4.pas",
+    "coui://ui/mods/therealf/systems/death_faces.pas",
+    "coui://ui/mods/therealf/systems/danger_path.pas",
+    "coui://ui/mods/therealf/systems/trocky.pas",
+    "coui://ui/mods/therealf/systems/obstacle.pas",
 ]);
