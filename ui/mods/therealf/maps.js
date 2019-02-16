@@ -40,5 +40,6 @@ cShareSystems.load_pas("[WAF] Viroo Maps", [
     "coui://ui/mods/therealf/systems/danger_path.pas",
     "coui://ui/mods/therealf/systems/trocky.pas",
     "coui://ui/mods/therealf/systems/obstacle.pas",
-    "coui://ui/mods/therealf/systems/hawaii.pas"
+    "coui://ui/mods/therealf/systems/hawaii.pas",
+    "coui://ui/mods/therealf/systems/moonrock.pas"
 ]);
