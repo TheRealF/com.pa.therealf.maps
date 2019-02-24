@@ -43,3 +43,24 @@ cShareSystems.load_pas("[WAF] Viroo Maps", [
     "coui://ui/mods/therealf/systems/hawaii.pas",
     "coui://ui/mods/therealf/systems/moonrock.pas"
 ]);
+cShareSystems.load_pas("[WAF] M3ga Maps", [
+    "coui://ui/mods/therealf/systems/4v4_buntbartia.pas",
+    "coui://ui/mods/therealf/systems/4v4_hootopia.pas",
+    "coui://ui/mods/therealf/systems/4v4_peakestia.pas",
+    "coui://ui/mods/therealf/systems/4v4_riva.pas",
+    "coui://ui/mods/therealf/systems/4v4_southerncross.pas",
+    "coui://ui/mods/therealf/systems/4v4_starlight.pas",
+    "coui://ui/mods/therealf/systems/4v4_towers & trenches mini-me.pas",
+    "coui://ui/mods/therealf/systems/4v4_towers & trenches.pas",
+    "coui://ui/mods/therealf/systems/4v4v4v4_towers & trenches.pas",
+    "coui://ui/mods/therealf/systems/5v5_extoria.pas",
+    "coui://ui/mods/therealf/systems/5v5_mindfield mini-me.pas",
+    "coui://ui/mods/therealf/systems5v5_mindfield.pas",
+    "coui://ui/mods/therealf/systems/5v5_nerakhen.pas",
+    "coui://ui/mods/therealf/systems/5v5_zorkon-12.pas",
+    "coui://ui/mods/therealf/systems/8v8_towers & trenches.pas",
+    "coui://ui/mods/therealf/systems/10v10_centaric.pas",
+    "coui://ui/mods/therealf/systems/12v12_towers & trenches.pas",
+    "coui://ui/mods/therealf/systems/16v16_buttertron.pas",
+    "coui://ui/mods/therealf/systems/16v16_mojobia.pas",
+    "coui://ui/mods/therealf/systems/32_pl ffa deadmans boots.pas"
