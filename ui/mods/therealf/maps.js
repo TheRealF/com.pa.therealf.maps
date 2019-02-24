@@ -64,3 +64,4 @@ cShareSystems.load_pas("[WAF] M3ga Maps", [
     "coui://ui/mods/therealf/systems/16v16_buttertron.pas",
     "coui://ui/mods/therealf/systems/16v16_mojobia.pas",
     "coui://ui/mods/therealf/systems/32_pl ffa deadmans boots.pas"
+]);
