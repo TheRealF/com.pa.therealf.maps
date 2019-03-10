@@ -23,7 +23,8 @@ cShareSystems.load_pas("WAF's XvsX, FFA, 1vs1", [
     "coui://ui/mods/therealf/systems/moon_galaxy_fight.pas",
     "coui://ui/mods/therealf/systems/the_skywalker.pas",
     "coui://ui/mods/therealf/systems/new_far_away_with_gas.pas",
-    "coui://ui/mods/therealf/systems/viroo.pas"
+    "coui://ui/mods/therealf/systems/viroo.pas",
+    "coui://ui/mods/therealf/systems/bagration.pas"
 ]);
 
 cShareSystems.load_pas("WAF's Alternative Biomes", [
